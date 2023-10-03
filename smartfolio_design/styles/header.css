@@ -1,0 +1,846 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.header-bM3 {
+  box-sizing: border-box;
+  padding: 6rem 0rem 0rem 11.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #0d0d2b;
+}
+.header-bM3 .auto-group-xt5y-spM {
+  margin: 0rem 11.8rem 5.1rem 6.2rem;
+  width: calc(100% - 18rem);
+  height: 5.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.header-bM3 .auto-group-xt5y-spM .vincrypt-smartfolio-ycV {
+  margin: 0.4rem 33.9rem 0rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-bM3 .auto-group-xt5y-spM .top-TGm {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.header-bM3 .auto-group-xt5y-spM .top-TGm .nav-menu-Qxh {
+  margin: 1.2rem 5.5rem 1.2rem 0rem;
+  height: calc(100% - 2.4rem);
+  display: flex;
+  column-gap: 3.1rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.header-bM3 .auto-group-xt5y-spM .top-TGm .nav-menu-Qxh .products-XGd {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  letter-spacing: 0.016rem;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-bM3 .auto-group-xt5y-spM .top-TGm .nav-menu-Qxh .features-FiR {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  letter-spacing: 0.016rem;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-bM3 .auto-group-xt5y-spM .top-TGm .nav-menu-Qxh .about-PZj {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  letter-spacing: 0.016rem;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-bM3 .auto-group-xt5y-spM .top-TGm .nav-menu-Qxh .contact-KyB {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  letter-spacing: 0.016rem;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-bM3 .auto-group-xt5y-spM .top-TGm .sign-in-sUu {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.header-bM3 .auto-group-xt5y-spM .top-TGm .sign-in-sUu .auto-group-ljpb-qAq {
+  box-sizing: border-box;
+  padding: 1.4rem 2.3rem 1.4rem 0.05rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.header-bM3 .auto-group-xt5y-spM .top-TGm .sign-in-sUu .auto-group-ljpb-qAq .login-Mus {
+  margin-right: 2.45rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-bM3 .auto-group-xt5y-spM .top-TGm .sign-in-sUu .auto-group-ljpb-qAq .divider-teu {
+  width: 0.1rem;
+  height: 2.4rem;
+  background-color: rgba(242, 242, 242, 0.3000000119);
+  flex-shrink: 0;
+}
+.header-bM3 .auto-group-xt5y-spM .top-TGm .sign-in-sUu .button-pHf {
+  width: 13rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3671e9;
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.header-bM3 .auto-group-lcnb-U7K {
+  width: 140.619rem;
+  height: 90.9863rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.header-bM3 .auto-group-lcnb-U7K .item--pBB {
+  width: 92.419rem;
+  height: 60.2864rem;
+  position: absolute;
+  left: 48.2rem;
+  top: 30.7rem;
+  background: linear-gradient(230.48deg, rgba(255, 255, 255, 0.0399999991) 49.31%, rgba(255, 255, 255, 0.0099999998) 52.26%);
+}
+.header-bM3 .auto-group-lcnb-U7K .value-proposition-hEy {
+  width: 58.8rem;
+  height: 45.9rem;
+  position: absolute;
+  left: 0;
+  top: 8.9rem;
+  border-radius: 3.2rem;
+}
+.header-bM3 .auto-group-lcnb-U7K .value-proposition-hEy .info-Dz1 {
+  margin: 0rem 8.1rem 1.2rem 0.2rem;
+  box-sizing: border-box;
+  padding: 0.4rem 6.3rem 0.4rem 0.4rem;
+  width: calc(100% - 8.3rem);
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.1000000015);
+  border-radius: 3.2rem;
+}
+.header-bM3 .auto-group-lcnb-U7K .value-proposition-hEy .info-Dz1 .save-KXF {
+  margin-right: 1.5rem;
+  width: 11.4rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.064rem;
+  text-transform: uppercase;
+  color: #0d0d2b;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.header-bM3 .auto-group-lcnb-U7K .value-proposition-hEy .info-Dz1 .database-for-research-and-investments-yrh {
+  margin-top: 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  letter-spacing: 0.016rem;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-bM3 .auto-group-lcnb-U7K .value-proposition-hEy .grow-your-asset-on-upscaling-technology-47T {
+  margin-bottom: 2.7rem;
+  max-width: 51.7rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.185;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+}
+.header-bM3 .auto-group-lcnb-U7K .value-proposition-hEy .over-400-crypto-coins-registered-in-our-database-tested-and-easy-to-use-AAV {
+  margin: 0rem 0rem 3.2rem 0.2rem;
+  max-width: 38.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  letter-spacing: 0.016rem;
+  color: #e0e0e0;
+  font-family: Rubik, 'Source Sans Pro';
+}
+.header-bM3 .auto-group-lcnb-U7K .value-proposition-hEy .button-Eg9 {
+  margin: 0rem 38.4rem 0rem 0.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.6rem 2.35rem;
+  width: calc(100% - 38.6rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #3671e9;
+  border-radius: 3.2rem;
+}
+.header-bM3 .auto-group-lcnb-U7K .value-proposition-hEy .button-Eg9 .try-for-free-YRw {
+  margin-right: 2.35rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header-bM3 .auto-group-lcnb-U7K .value-proposition-hEy .button-Eg9 .arrow-right-U4h {
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j {
+  width: 60.4rem;
+  height: 58.5154rem;
+  position: absolute;
+  left: 59.8rem;
+  top: 0;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .item--hCM {
+  width: 23.9rem;
+  height: 16.6154rem;
+  position: absolute;
+  left: 36.5rem;
+  top: 41.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .item--1yj {
+  width: 22.4383rem;
+  height: 14.725rem;
+  position: absolute;
+  left: 0;
+  top: 43.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .item--wMb {
+  width: 22.1rem;
+  height: 32.8724rem;
+  position: absolute;
+  left: 38.2rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ {
+  width: 49.9999rem;
+  height: 46rem;
+  position: absolute;
+  left: 4rem;
+  top: 3.5rem;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-xXb {
+  width: 1.5063rem;
+  height: 4.3533rem;
+  position: absolute;
+  left: 43.1023rem;
+  top: 28.7296rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-tw3 {
+  width: 1.5063rem;
+  height: 2.6111rem;
+  position: absolute;
+  left: 41.5961rem;
+  top: 29.6015rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-33F {
+  width: 1.5063rem;
+  height: 7.8363rem;
+  position: absolute;
+  left: 40.0897rem;
+  top: 23.5059rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-nFj {
+  width: 1.5078rem;
+  height: 9.5771rem;
+  position: absolute;
+  left: 38.5819rem;
+  top: 20.8948rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-L2M {
+  width: 1.5063rem;
+  height: 7.8363rem;
+  position: absolute;
+  left: 37.0757rem;
+  top: 21.7652rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-fqK {
+  width: 1.5063rem;
+  height: 13.0585rem;
+  position: absolute;
+  left: 35.5693rem;
+  top: 15.6711rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-18V {
+  width: 1.5063rem;
+  height: 11.3178rem;
+  position: absolute;
+  left: 34.0632rem;
+  top: 16.5415rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-wnq {
+  width: 1.5063rem;
+  height: 9.5771rem;
+  position: absolute;
+  left: 32.5569rem;
+  top: 17.4118rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-ti5 {
+  width: 1.5078rem;
+  height: 13.06rem;
+  position: absolute;
+  left: 31.0492rem;
+  top: 13.0585rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-q7X {
+  width: 1.5063rem;
+  height: 16.5415rem;
+  position: absolute;
+  left: 29.5429rem;
+  top: 8.7067rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-yUd {
+  width: 1.5063rem;
+  height: 14.7992rem;
+  position: absolute;
+  left: 28.0366rem;
+  top: 9.5771rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-ix1 {
+  width: 1.5063rem;
+  height: 18.2822rem;
+  position: absolute;
+  left: 26.5304rem;
+  top: 5.2237rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-s4D {
+  width: 1.5078rem;
+  height: 18.2822rem;
+  position: absolute;
+  left: 25.0225rem;
+  top: 4.3533rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-zuX {
+  width: 1.5063rem;
+  height: 21.7652rem;
+  position: absolute;
+  left: 23.5163rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-MEH {
+  width: 27.6003rem;
+  height: 15.9493rem;
+  position: absolute;
+  left: 11.1959rem;
+  top: 30.0507rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-VrH {
+  width: 31.414rem;
+  height: 18.1532rem;
+  position: absolute;
+  left: 9.2891rem;
+  top: 24.6762rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-eDP {
+  width: 31.4147rem;
+  height: 18.1559rem;
+  position: absolute;
+  left: 9.2978rem;
+  top: 23.6944rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-yFf {
+  width: 31.4147rem;
+  height: 18.1633rem;
+  position: absolute;
+  left: 9.2978rem;
+  top: 22.9157rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-WmP {
+  width: 31.192rem;
+  height: 16.5057rem;
+  position: absolute;
+  left: 9.4041rem;
+  top: 24.5581rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-rKT {
+  width: 31.414rem;
+  height: 18.1532rem;
+  position: absolute;
+  left: 9.2891rem;
+  top: 20.9104rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-nyo {
+  width: 14.7023rem;
+  height: 16.958rem;
+  position: absolute;
+  left: 10.3rem;
+  top: 20.9041rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-YCH {
+  width: 13.3001rem;
+  height: 17.7879rem;
+  position: absolute;
+  left: 21.3406rem;
+  top: 21.274rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .group-4Ad {
+  opacity: 0.05;
+  width: 49.9999rem;
+  height: 28.8928rem;
+  position: absolute;
+  left: 0;
+  top: 15.8623rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-PCu {
+  width: 27.8197rem;
+  height: 8.3088rem;
+  position: absolute;
+  left: 11.0869rem;
+  top: 21.9486rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-vTj {
+  width: 18.8329rem;
+  height: 10.8826rem;
+  position: absolute;
+  left: 14.7831rem;
+  top: 25.3134rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-GGh {
+  width: 0.7143rem;
+  height: 0.8268rem;
+  position: absolute;
+  left: 16.8717rem;
+  top: 26.2506rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-oXX {
+  width: 0.7205rem;
+  height: 0.8268rem;
+  position: absolute;
+  left: 19.0161rem;
+  top: 25.0119rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-MJ9 {
+  width: 0.646rem;
+  height: 0.9823rem;
+  position: absolute;
+  left: 26.799rem;
+  top: 26.6656rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-hN1 {
+  width: 0.969rem;
+  height: 1.1999rem;
+  position: absolute;
+  left: 32.63rem;
+  top: 29.987rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-SaV {
+  width: 18.8407rem;
+  height: 10.8826rem;
+  position: absolute;
+  left: 14.7831rem;
+  top: 24.2675rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-Nj3 {
+  width: 1.2889rem;
+  height: 1.7905rem;
+  position: absolute;
+  left: 32.3317rem;
+  top: 31.9624rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-vVf {
+  width: 1.2889rem;
+  height: 1.7905rem;
+  position: absolute;
+  left: 30.1873rem;
+  top: 33.2011rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-57f {
+  width: 1.2904rem;
+  height: 1.7905rem;
+  position: absolute;
+  left: 25.3594rem;
+  top: 34.4056rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-cNV {
+  width: 1.2889rem;
+  height: 1.792rem;
+  position: absolute;
+  left: 14.7754rem;
+  top: 28.2882rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-Z2q {
+  width: 1.4783rem;
+  height: 1.9008rem;
+  position: absolute;
+  left: 16.0642rem;
+  top: 28.1794rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-u6h {
+  width: 9.2969rem;
+  height: 5.8951rem;
+  position: absolute;
+  left: 17.5424rem;
+  top: 28.1794rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-SsK {
+  width: 4.5064rem;
+  height: 2.6732rem;
+  position: absolute;
+  left: 22.9355rem;
+  top: 19.7501rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-mub {
+  width: 2.6356rem;
+  height: 1.5239rem;
+  position: absolute;
+  left: 23.872rem;
+  top: 20.3248rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-WsB {
+  width: 2.4985rem;
+  height: 1.4423rem;
+  position: absolute;
+  left: 29.7043rem;
+  top: 17.0341rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-rg9 {
+  width: 2.1755rem;
+  height: 1.4889rem;
+  position: absolute;
+  left: 27.8021rem;
+  top: 16.1452rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-nph {
+  width: 1.6382rem;
+  height: 1.3879rem;
+  position: absolute;
+  left: 25.6453rem;
+  top: 15.7395rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-jV3 {
+  width: 1.6398rem;
+  height: 1.3879rem;
+  position: absolute;
+  left: 23.0938rem;
+  top: 15.7395rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-537 {
+  width: 2.174rem;
+  height: 1.4889rem;
+  position: absolute;
+  left: 20.4013rem;
+  top: 16.1452rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-Qr5 {
+  width: 2.497rem;
+  height: 1.4423rem;
+  position: absolute;
+  left: 18.176rem;
+  top: 17.0341rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-xMo {
+  width: 2.6724rem;
+  height: 1.5449rem;
+  position: absolute;
+  left: 27.2198rem;
+  top: 18.3692rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-6iu {
+  width: 1.9162rem;
+  height: 1.8309rem;
+  position: absolute;
+  left: 26.3922rem;
+  top: 17.7195rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-qwP {
+  width: 0.9721rem;
+  height: 1.9365rem;
+  position: absolute;
+  left: 25.448rem;
+  top: 17.401rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-BkM {
+  width: 0.9736rem;
+  height: 1.9365rem;
+  position: absolute;
+  left: 23.9573rem;
+  top: 17.401rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-vhw {
+  width: 1.9162rem;
+  height: 1.8309rem;
+  position: absolute;
+  left: 22.069rem;
+  top: 17.7195rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-UDf {
+  width: 2.6724rem;
+  height: 1.5449rem;
+  position: absolute;
+  left: 20.4866rem;
+  top: 18.3692rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-1jP {
+  width: 3.1663rem;
+  height: 1.1082rem;
+  position: absolute;
+  left: 19.364rem;
+  top: 19.2831rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-xPj {
+  width: 3.351rem;
+  height: 0.5626rem;
+  position: absolute;
+  left: 18.811rem;
+  top: 20.3741rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-JCh {
+  width: 2.6724rem;
+  height: 1.5449rem;
+  position: absolute;
+  left: 20.4866rem;
+  top: 22.2594rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-wFf {
+  width: 4.9257rem;
+  height: 10.4132rem;
+  position: absolute;
+  left: 34.411rem;
+  top: 15.783rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-UWV {
+  width: 15.3778rem;
+  height: 4.5211rem;
+  position: absolute;
+  left: 12.912rem;
+  top: 24.7338rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-DU5 {
+  width: 23.3156rem;
+  height: 9.3344rem;
+  position: absolute;
+  left: 11.0426rem;
+  top: 12.9126rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-APK {
+  width: 11.4119rem;
+  height: 6.5945rem;
+  position: absolute;
+  left: 23.0737rem;
+  top: 19.064rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-ubo {
+  width: 5.4272rem;
+  height: 3.1364rem;
+  position: absolute;
+  left: 24.2445rem;
+  top: 23.1997rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-Fff {
+  width: 8.1509rem;
+  height: 4.7093rem;
+  position: absolute;
+  left: 25.4978rem;
+  top: 22.3511rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.header-bM3 .auto-group-lcnb-U7K .illustration-a7j .bitcoin-HAZ .vector-193 {
+  width: 6.5282rem;
+  height: 3.7705rem;
+  position: absolute;
+  left: 26.7307rem;
+  top: 24.0017rem;
+  object-fit: contain;
+  vertical-align: top;
+}

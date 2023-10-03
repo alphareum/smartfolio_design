@@ -1,0 +1,1495 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.design-FNq {
+  box-sizing: border-box;
+  padding-top: 43.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.design-FNq .auto-group-bbep-33o {
+  width: 100%;
+  height: 277rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.design-FNq .auto-group-bbep-33o .frame-Yuf {
+  box-sizing: border-box;
+  padding-bottom: 1.9rem;
+  width: 144rem;
+  height: 149rem;
+  position: absolute;
+  left: 0;
+  top: 128rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, #f8f9fb -0%, #fafbff 100%);
+}
+.design-FNq .auto-group-bbep-33o .frame-Yuf .auto-group-ybz1-2K3 {
+  margin-bottom: 1.5rem;
+  box-sizing: border-box;
+  padding: 10rem 48.15rem 10rem 46.75rem;
+  width: 100%;
+  height: 45.7rem;
+  background-color: #0d0d2b;
+  flex-shrink: 0;
+}
+.design-FNq .auto-group-bbep-33o .frame-Yuf .auto-group-ybz1-2K3 .group-87B {
+  width: 100%;
+  height: 11.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.design-FNq .auto-group-bbep-33o .frame-Yuf .auto-group-ybz1-2K3 .group-87B .check-out-our-feature-URw {
+  margin: 0rem 0rem 2.4rem 1.5rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .auto-group-bbep-33o .frame-Yuf .auto-group-ybz1-2K3 .group-87B .check-our-summary-based-on-our-database-powered-by-ai-UTs {
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #e0e0e0;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .auto-group-bbep-33o .frame-Yuf .group-xtq {
+  margin: 0rem 9.9rem 0rem 10.1rem;
+  width: calc(100% - 20rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 2rem 20rem rgba(57, 23, 119, 0.0500000007);
+  flex-shrink: 0;
+}
+.design-FNq .auto-group-bbep-33o .frame-Yuf .group-xtq .group-gpq {
+  margin-bottom: 6.4216rem;
+  box-sizing: border-box;
+  padding: 4.552rem 11.5rem 3.974rem 6.318rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #fbfcfe;
+  border-radius: 1.6rem 1.6rem 0 0;
+  flex-shrink: 0;
+}
+.design-FNq .auto-group-bbep-33o .frame-Yuf .group-xtq .group-gpq .enter-your-hash-rate-avD {
+  margin: 0.098rem 6.318rem 0rem 0rem;
+  width: 53.0488rem;
+  height: 3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #0d0d2b;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.1rem #e0e0e0;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.design-FNq .auto-group-bbep-33o .frame-Yuf .group-xtq .group-gpq .group-ony {
+  margin: 0.098rem 6.287rem 0rem 0rem;
+  box-sizing: border-box;
+  padding-left: 1.0531rem;
+  height: 3rem;
+  display: flex;
+  align-items: flex-start;
+  border-bottom: solid 0.1rem #e0e0e0;
+  flex-shrink: 0;
+}
+.design-FNq .auto-group-bbep-33o .frame-Yuf .group-xtq .group-gpq .group-ony .category-Xiy {
+  margin-right: 14.5677rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #0d0d2b;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .auto-group-bbep-33o .frame-Yuf .group-xtq .group-gpq .group-ony .icon-arrow-down-Sqw {
+  margin-top: 0.2999rem;
+  width: 2.1062rem;
+  height: 1.1999rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-FNq .auto-group-bbep-33o .frame-Yuf .group-xtq .group-gpq .button-8Ts {
+  margin-bottom: 0.1713rem;
+  width: 14.2rem;
+  height: 2.9263rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3671e9;
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.design-FNq .auto-group-bbep-33o .frame-Yuf .group-xtq .estimated-revenue-4kq {
+  box-sizing: border-box;
+  padding: 1.138rem 1.8rem 20.348rem 1.8rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 8rem 4rem #391777;
+  background-color: #ffffff;
+  border-radius: 0 0 1.6rem 1.6rem;
+  flex-shrink: 0;
+}
+.design-FNq .auto-group-bbep-33o .frame-Yuf .group-xtq .estimated-revenue-4kq .result--ngq {
+  margin-bottom: 55.1688rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.064rem;
+  text-transform: uppercase;
+  color: #3671e9;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .auto-group-bbep-33o .frame-Yuf .group-xtq .estimated-revenue-4kq .item--W73 {
+  margin-left: 4.4185rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  letter-spacing: 0.016rem;
+  color: #828282;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .auto-group-bbep-33o .frame-6qw {
+  width: 144rem;
+  height: 86.5rem;
+  position: absolute;
+  left: 0;
+  top: 43.2rem;
+  overflow: hidden;
+  background-color: #0d0d2b;
+}
+.design-FNq .auto-group-bbep-33o .frame-6qw .item--q2q {
+  width: 92.419rem;
+  height: 60.2864rem;
+  position: absolute;
+  left: 0;
+  top: 41.7799rem;
+  background: linear-gradient(40.89deg, rgba(255, 255, 255, 0) 45.91%, rgba(255, 255, 255, 0.1000000015) 63.4%);
+}
+.design-FNq .auto-group-bbep-33o .frame-6qw .d-Vt5 {
+  width: 35.5167rem;
+  height: 35.5167rem;
+  position: absolute;
+  left: 119rem;
+  top: 5.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.design-FNq .auto-group-bbep-33o .frame-6qw .u-aPj {
+  width: 24rem;
+  height: 24rem;
+  position: absolute;
+  left: 128.6rem;
+  top: 55.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.design-FNq .auto-group-bbep-33o .frame-6qw .content-uwo {
+  width: 120rem;
+  height: 47.3rem;
+  position: absolute;
+  left: 12rem;
+  top: 29.2rem;
+  display: flex;
+  align-items: center;
+}
+.design-FNq .auto-group-bbep-33o .frame-6qw .content-uwo .illustrations-Rv9 {
+  margin-right: 7rem;
+  width: 65rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.design-FNq .auto-group-bbep-33o .frame-6qw .content-uwo .illustrations-Rv9 .item--a2M {
+  width: 55.1049rem;
+  height: 21.4143rem;
+  position: relative;
+  left: 2.1885rem;
+  top: 25.8857rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/-Ro7.png');
+}
+.design-FNq .auto-group-bbep-33o .frame-6qw .content-uwo .illustrations-Rv9 .item--3wX {
+  width: 40.2315rem;
+  height: 18.4875rem;
+  position: relative;
+  left: 19.6462rem;
+  top: 13.3981rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/-71s.png');
+}
+.design-FNq .auto-group-bbep-33o .frame-6qw .content-uwo .illustrations-Rv9 .item--mMj {
+  width: 21.0667rem;
+  height: 12.6827rem;
+  position: relative;
+  left: 22.2308rem;
+  top: 20.4711rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/-UJM.png');
+}
+.design-FNq .auto-group-bbep-33o .frame-6qw .content-uwo .illustrations-Rv9 .item--TkM {
+  width: 7.4123rem;
+  height: 7.4145rem;
+  position: relative;
+  left: 46.0773rem;
+  top: 35.6905rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/-Sfj.png');
+}
+.design-FNq .auto-group-bbep-33o .frame-6qw .content-uwo .illustrations-Rv9 .ooo-Mqj {
+  width: 48.6192rem;
+  height: 46.4178rem;
+  position: absolute;
+  left: 16.3808rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.design-FNq .auto-group-bbep-33o .frame-6qw .content-uwo .illustrations-Rv9 .ethereum-JFB {
+  width: 29.8566rem;
+  height: 18.2659rem;
+  position: absolute;
+  left: 0;
+  top: 11.8108rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.design-FNq .auto-group-bbep-33o .frame-6qw .content-uwo .text-S6V {
+  margin: 7.697rem 0rem 7.714rem 0rem;
+  width: 48rem;
+  height: calc(100% - 15.4111rem);
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.design-FNq .auto-group-bbep-33o .frame-6qw .content-uwo .text-S6V .about-us-LxZ {
+  margin-bottom: 8.3939rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.design-FNq .auto-group-bbep-33o .frame-6qw .content-uwo .text-S6V .we-provide-rich-information-on-more-than-400-cryptocurrency-based-on-ai-powered-database-to-ensure-accuracy-and-detailed-informations-TGV {
+  margin-bottom: 3.1951rem;
+  max-width: 37.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  letter-spacing: 0.016rem;
+  color: #e0e0e0;
+  font-family: Rubik, 'Source Sans Pro';
+}
+.design-FNq .auto-group-bbep-33o .frame-6qw .content-uwo .text-S6V .button-ueH {
+  width: 14.6rem;
+  height: 5.9rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3671e9;
+  border-radius: 3.2rem;
+}
+.design-FNq .auto-group-bbep-33o .frame-6qw .group-Zyj {
+  width: 27.8rem;
+  height: 9.2rem;
+  position: absolute;
+  left: 55.3rem;
+  top: 13.9rem;
+  display: flex;
+  align-items: flex-start;
+}
+.design-FNq .auto-group-bbep-33o .frame-6qw .group-Zyj .icon-ha9 {
+  margin: 0rem 2.4rem 1.2rem 0rem;
+  box-sizing: border-box;
+  padding: 2.5rem;
+  background-color: rgba(255, 255, 255, 0.1000000015);
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.design-FNq .auto-group-bbep-33o .frame-6qw .group-Zyj .icon-ha9 .icon-bar-chart-dih {
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.design-FNq .auto-group-bbep-33o .frame-6qw .group-Zyj .group-Meh {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-FNq .auto-group-bbep-33o .frame-6qw .group-Zyj .group-Meh .item-400-iVF {
+  margin-bottom: 0.4rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .auto-group-bbep-33o .frame-6qw .group-Zyj .group-Meh .crypto-coins-database-3nR {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  letter-spacing: 0.016rem;
+  color: #e0e0e0;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .auto-group-bbep-33o .item--Zkm {
+  width: 92.419rem;
+  height: 60.2864rem;
+  position: absolute;
+  left: 13.1rem;
+  top: 0;
+  background: linear-gradient(230.49deg, rgba(255, 255, 255, 0) 47.77%, rgba(255, 255, 255, 0.0399999991) 49.51%, rgba(255, 255, 255, 0) 52.25%);
+}
+.design-FNq .features-eGR {
+  box-sizing: border-box;
+  padding-left: 12rem;
+  width: 100%;
+  height: 187.4rem;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #2b076e;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-ksg7-ZPP {
+  margin: 0rem 31.3rem 9.1rem 0rem;
+  width: 94.5rem;
+  height: 68.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-ksg7-ZPP .o-tAm {
+  width: 68.6rem;
+  height: 68.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: conic-gradient(from 180deg at 50% 50%, rgba(255, 255, 255, 0.1599999964) -0deg, rgba(255, 255, 255, 0) 360deg);
+  border-radius: 34.3rem;
+}
+.design-FNq .features-eGR .auto-group-ksg7-ZPP .market-sentiments-portfolio-and-run-the-infrastructure-of-your-choice-Znh {
+  width: 75.2rem;
+  height: 12rem;
+  position: absolute;
+  left: 19.3rem;
+  top: 55.7rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+}
+.design-FNq .features-eGR .invest-smart-pid {
+  margin: 0rem 18.6rem 22.5rem 0rem;
+  width: calc(100% - 18.6rem);
+  height: 42.7rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .invest-smart-pid .text-8UR {
+  margin: 4rem 10rem 0rem 0rem;
+  width: 45.4rem;
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .invest-smart-pid .text-8UR .invest-smart-q7w {
+  margin-bottom: 2.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.design-FNq .features-eGR .invest-smart-pid .text-8UR .get-full-statistic-information-about-the-behaviour-of-buyers-and-sellers-will-help-you-to-make-the-decision-wgm {
+  margin-bottom: 3.2rem;
+  max-width: 40.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  letter-spacing: 0.016rem;
+  color: #e0e0e0;
+  font-family: Rubik, 'Source Sans Pro';
+}
+.design-FNq .features-eGR .invest-smart-pid .text-8UR .button-DuB {
+  width: 16.2rem;
+  height: 5.9rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3671e9;
+  border-radius: 3.2rem;
+}
+.design-FNq .features-eGR .invest-smart-pid .chart-Vbo {
+  width: 58rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .invest-smart-pid .chart-Vbo .rectangle-74-EpH {
+  width: 58rem;
+  height: 29.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #35068c;
+  border-radius: 1.6rem;
+}
+.design-FNq .features-eGR .invest-smart-pid .chart-Vbo .group-110-xkH {
+  width: 50rem;
+  height: 5rem;
+  position: absolute;
+  left: 4rem;
+  top: 4rem;
+  display: flex;
+  align-items: center;
+}
+.design-FNq .features-eGR .invest-smart-pid .chart-Vbo .group-110-xkH .group-17-fPo {
+  margin: 0rem 1.6rem 1rem 0rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .invest-smart-pid .chart-Vbo .group-110-xkH .auto-group-aobm-Bsw {
+  margin-right: 27.5rem;
+  width: 12.3rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .invest-smart-pid .chart-Vbo .group-110-xkH .auto-group-aobm-Bsw .group-90-w6R {
+  margin-bottom: 0.3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.design-FNq .features-eGR .invest-smart-pid .chart-Vbo .group-110-xkH .auto-group-aobm-Bsw .group-90-w6R .bitcoin-Us3 {
+  margin-right: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .invest-smart-pid .chart-Vbo .group-110-xkH .auto-group-aobm-Bsw .group-90-w6R .btc-oeR {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #cfcfcf;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .invest-smart-pid .chart-Vbo .group-110-xkH .auto-group-aobm-Bsw .btc-jny {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  letter-spacing: 0.014rem;
+  color: #f2f2f2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.design-FNq .features-eGR .invest-smart-pid .chart-Vbo .group-110-xkH .item-125-5M3 {
+  margin-bottom: 0.9rem;
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: 0.014rem;
+  color: #42ffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .invest-smart-pid .chart-Vbo .card-bounce-rate-CAm {
+  box-sizing: border-box;
+  padding: 2.4rem 1.6rem 2.3rem 1.6rem;
+  width: 17.8rem;
+  height: 18.4rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 24.3rem;
+  backdrop-filter: blur(12.5rem);
+  background-color: #491f98;
+  border-radius: 1.6rem;
+}
+.design-FNq .features-eGR .invest-smart-pid .chart-Vbo .card-bounce-rate-CAm .increase-in-trade-hNR {
+  margin-bottom: 1.6rem;
+  max-width: 10.8rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.4;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.design-FNq .features-eGR .invest-smart-pid .chart-Vbo .card-bounce-rate-CAm .group-69-R3X {
+  margin: 0rem 4.8rem 1.5rem 0rem;
+  box-sizing: border-box;
+  padding-right: 0.5994rem;
+  width: calc(100% - 4.8rem);
+  display: flex;
+  align-items: center;
+}
+.design-FNq .features-eGR .invest-smart-pid .chart-Vbo .card-bounce-rate-CAm .group-69-R3X .item-75-jpu {
+  margin-right: 1.2996rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: 0.024rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .invest-smart-pid .chart-Vbo .card-bounce-rate-CAm .group-69-R3X .arrow-up-G49 {
+  margin-top: 0.0005rem;
+  width: 1.201rem;
+  height: 1.1995rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .invest-smart-pid .chart-Vbo .card-bounce-rate-CAm .sell-option-PeZ {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  letter-spacing: 0.016rem;
+  color: #f2f2f2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.design-FNq .features-eGR .invest-smart-pid .chart-Vbo .card-visits-per-day-5nH {
+  box-sizing: border-box;
+  padding: 1.6rem 3.2rem 1.5rem 3.2rem;
+  width: 16.9rem;
+  height: 8.4rem;
+  position: absolute;
+  left: 35.5rem;
+  top: 25.5rem;
+  background-color: #491f98;
+  border-radius: 1.6rem;
+  box-shadow: 1.5rem 2rem 4rem rgba(116, 117, 218, 0.150000006);
+}
+.design-FNq .features-eGR .invest-smart-pid .chart-Vbo .card-visits-per-day-5nH .group-62-PY5 {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.design-FNq .features-eGR .invest-smart-pid .chart-Vbo .card-visits-per-day-5nH .group-62-PY5 .item-1532-wZb {
+  margin: 0rem 0.1rem 0.3rem 0rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: 0.024rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .invest-smart-pid .chart-Vbo .card-visits-per-day-5nH .group-62-PY5 .price-in-dollar-Eob {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  letter-spacing: 0.016rem;
+  color: #f2f2f2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .invest-smart-pid .chart-Vbo .group-111-hSH {
+  box-sizing: border-box;
+  padding: 0.0396rem 0;
+  width: 50rem;
+  height: 13.6rem;
+  position: absolute;
+  left: 4rem;
+  top: 11.4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-8.png');
+}
+.design-FNq .features-eGR .invest-smart-pid .chart-Vbo .group-111-hSH .vector-7-RdB {
+  width: 50rem;
+  height: 7.0605rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.design-FNq .features-eGR .detailed-statistics-MFw {
+  margin: 0rem 0rem 19.445rem 49.4rem;
+  width: 45.6rem;
+  height: 24.7rem;
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .detailed-statistics-MFw .text-gJD {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 3.2rem;
+}
+.design-FNq .features-eGR .detailed-statistics-MFw .text-gJD .detailed-statistics-SHP {
+  margin: 0rem 0rem 2.4rem 0.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .detailed-statistics-MFw .text-gJD .view-market-statistics-analyzed-and-created-by-ai-xFj {
+  margin: 0rem 0rem 8.8rem 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  letter-spacing: 0.016rem;
+  color: #e0e0e0;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .detailed-statistics-MFw .text-gJD .button-qqK {
+  width: 16.2rem;
+  height: 5.9rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3671e9;
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 {
+  width: 181.2547rem;
+  height: 93.7094rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .o-Fe9 {
+  width: 93.7093rem;
+  height: 93.7094rem;
+  position: absolute;
+  left: 87.5453rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 {
+  width: 120rem;
+  height: 33.4rem;
+  position: absolute;
+  left: 0;
+  top: 2.6547rem;
+  display: flex;
+  align-items: center;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .text-jZK {
+  margin: 1rem 6.4rem 2.9rem 0rem;
+  width: 45.4rem;
+  height: calc(100% - 3.8997rem);
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .text-jZK .grow-your-profit-and-track-your-investments-r89 {
+  margin-bottom: 2.4rem;
+  max-width: 42rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .text-jZK .use-advanced-analytical-tools-clear-tradingview-charts-let-you-track-current-and-historical-profit-investments-ZoF {
+  margin-bottom: 3.2003rem;
+  max-width: 37rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  letter-spacing: 0.016rem;
+  color: #e0e0e0;
+  font-family: Rubik, 'Source Sans Pro';
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .text-jZK .button-Sc9 {
+  width: 16.2rem;
+  height: 5.9rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3671e9;
+  border-radius: 3.2rem;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM {
+  width: 68.2rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .base-5f7 {
+  width: 61rem;
+  height: 33.4rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 0;
+  backdrop-filter: blur(0.2rem);
+  background-color: #35068c;
+  border-radius: 1.6rem;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .title-QhP {
+  width: 35.4rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 29.3rem;
+  top: 4rem;
+  display: flex;
+  align-items: center;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .title-QhP .price-wSR {
+  margin-right: 8.6rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .title-QhP .change-gQ1 {
+  margin-right: 8.8rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .title-QhP .volume-24h-RcV {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .btc-Mm3 {
+  width: 52.1rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 11.2rem;
+  top: 7.3rem;
+  display: flex;
+  align-items: center;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .btc-Mm3 .btc-gYR {
+  margin-right: 7.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .btc-Mm3 .btc-gYR .group-17-XZ3 {
+  margin: 0rem 1.6rem 0.2rem 0rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .btc-Mm3 .btc-gYR .group-91-Fjw {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .btc-Mm3 .btc-gYR .group-91-Fjw .btc-c4h {
+  margin-bottom: 0.3rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .btc-Mm3 .btc-gYR .group-91-Fjw .bitcoin-wcm {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  letter-spacing: 0.016rem;
+  color: #f2f2f2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .btc-Mm3 .item-6750-fYm {
+  margin-top: 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #f2f2f2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .btc-Mm3 .auto-group-anjh-CYh {
+  box-sizing: border-box;
+  padding: 1.4rem 0rem 1.4rem 7.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .btc-Mm3 .auto-group-anjh-CYh .group-100-vUh {
+  margin-right: 7.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .btc-Mm3 .auto-group-anjh-CYh .group-100-vUh .group-96-suj {
+  margin-right: 0.8rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .btc-Mm3 .auto-group-anjh-CYh .group-100-vUh .item-73-2Gq {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #8fffbd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .btc-Mm3 .auto-group-anjh-CYh .item-3420214-kid {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #f2f2f2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .eth-tZw {
+  box-sizing: border-box;
+  padding: 1.6rem 5.2rem 1.5rem 4.01rem;
+  width: 61rem;
+  height: 7.9rem;
+  position: absolute;
+  left: 0;
+  top: 14.4rem;
+  background-color: #450fad;
+  border-radius: 1.6rem;
+  box-shadow: 0 2rem 8rem rgba(54, 113, 233, 0.1000000015);
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .eth-tZw .group-106-cVw {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .eth-tZw .group-106-cVw .group-104-y5b {
+  margin-right: 5.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .eth-tZw .group-106-cVw .group-104-y5b .logo-ethereum-hGV {
+  margin-right: 1.6109rem;
+  width: 3.9789rem;
+  height: 3.9789rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .eth-tZw .group-106-cVw .group-104-y5b .group-92-pM7 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .eth-tZw .group-106-cVw .group-104-y5b .group-92-pM7 .eth-Avm {
+  margin-bottom: 0.3rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .eth-tZw .group-106-cVw .group-104-y5b .group-92-pM7 .ethereum-WUq {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  letter-spacing: 0.016rem;
+  color: #f2f2f2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .eth-tZw .group-106-cVw .item-15683-dpM {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #f2f2f2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .eth-tZw .group-106-cVw .auto-group-pzqm-aDo {
+  box-sizing: border-box;
+  padding: 1.4rem 0rem 1.4rem 6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .eth-tZw .group-106-cVw .auto-group-pzqm-aDo .group-101-WNM {
+  margin-right: 7.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .eth-tZw .group-106-cVw .auto-group-pzqm-aDo .group-101-WNM .group-97-G6d {
+  margin-right: 0.8rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .eth-tZw .group-106-cVw .auto-group-pzqm-aDo .group-101-WNM .item-09-bub {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ff7575;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .eth-tZw .group-106-cVw .auto-group-pzqm-aDo .item-1812350-9AR {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #f2f2f2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .ltc-EBs {
+  width: 52.2898rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 11.2102rem;
+  top: 24.7rem;
+  display: flex;
+  align-items: center;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .ltc-EBs .ltc-9pd {
+  margin-right: 6.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .ltc-EBs .ltc-9pd .logo-lite-WQH {
+  margin: 0rem 1.611rem 0rem 0rem;
+  width: 3.9789rem;
+  height: 3.9789rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .ltc-EBs .ltc-9pd .group-94-djo {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .ltc-EBs .ltc-9pd .group-94-djo .ltc-bRj {
+  margin-bottom: 0.3rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .ltc-EBs .ltc-9pd .group-94-djo .litecoin-k3j {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  letter-spacing: 0.016rem;
+  color: #f2f2f2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .ltc-EBs .item-8535-se9 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #f2f2f2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .ltc-EBs .auto-group-sd7d-DT7 {
+  box-sizing: border-box;
+  padding: 1.4rem 0rem 1.4rem 7.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .ltc-EBs .auto-group-sd7d-DT7 .group-102-9rZ {
+  margin-right: 6.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .ltc-EBs .auto-group-sd7d-DT7 .group-102-9rZ .group-98-uaq {
+  margin-right: 0.8rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .ltc-EBs .auto-group-sd7d-DT7 .group-102-9rZ .item-82-T6Z {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #8fffbd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .features-eGR .auto-group-dnvt-7H3 .grow-profit-bi1 .table-jLM .ltc-EBs .auto-group-sd7d-DT7 .item-5820399-nPj {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #f2f2f2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .frame-Vow {
+  width: 100%;
+  height: 39.2rem;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(180deg, #2b076e -0%, #0d0d2b 100%);
+  flex-shrink: 0;
+}
+.design-FNq .frame-Vow .item--FYD {
+  width: 84.8528rem;
+  height: 84.8528rem;
+  position: absolute;
+  left: 39.5rem;
+  top: -8.5rem;
+  background: linear-gradient(72.24deg, rgba(255, 255, 255, 0) 53.82%, rgba(255, 255, 255, 0.3000000119) 206.43%);
+}
+.design-FNq .frame-Vow .item--9db {
+  width: 84.8528rem;
+  height: 84.8528rem;
+  position: absolute;
+  left: 3.5rem;
+  top: -1.7rem;
+  background: linear-gradient(72.24deg, rgba(255, 255, 255, 0) 53.82%, rgba(255, 255, 255, 0.3000000119) 206.43%);
+}
+.design-FNq .frame-Vow .group-rY1 {
+  box-sizing: border-box;
+  padding: 4.8rem 9.4rem 7.6rem 4.8rem;
+  width: 120rem;
+  height: 21.6rem;
+  position: absolute;
+  left: 12rem;
+  top: 8.8rem;
+  background-color: #3671e9;
+  border-radius: 1.6rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group.png');
+}
+.design-FNq .frame-Vow .group-rY1 .text-xb3 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 3.2rem;
+}
+.design-FNq .frame-Vow .group-rY1 .text-xb3 .group-WsT {
+  margin-right: 10rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-FNq .frame-Vow .group-rY1 .text-xb3 .group-WsT .start-using-our-utility-now-fkM {
+  margin-bottom: 1.6rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .frame-Vow .group-rY1 .text-xb3 .group-WsT .discover-our-useful-ai-features-now-QC9 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  letter-spacing: 0.016rem;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .frame-Vow .group-rY1 .text-xb3 .group-jER {
+  margin: 2.4rem 0rem 1.3rem 0rem;
+  height: calc(100% - 3.7rem);
+  display: flex;
+  align-items: center;
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.design-FNq .frame-Vow .group-rY1 .text-xb3 .group-jER .enter-your-email-4nV {
+  margin: 0.6rem 4rem 1.3rem 0rem;
+  width: 37.4rem;
+  height: calc(100% - 1.9rem);
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  letter-spacing: 0.016rem;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.1rem rgba(255, 255, 255, 0.400000006);
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.design-FNq .frame-Vow .group-rY1 .text-xb3 .group-jER .button-8GZ {
+  width: 12.6rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #0d0d2b;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.design-FNq .footer-iEm {
+  box-sizing: border-box;
+  padding: 8rem 12rem 8rem 11.3rem;
+  width: 100%;
+  height: 55.2rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #0d0d2b;
+  flex-shrink: 0;
+}
+.design-FNq .footer-iEm .auto-group-ypco-anm {
+  margin: 0.8rem 3.6rem 0rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-FNq .footer-iEm .auto-group-ypco-anm .vincrypt-t2m {
+  margin: 0rem 0rem 4.7rem 6rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .footer-iEm .auto-group-ypco-anm .logo-design-no-background-1-9Db {
+  margin-bottom: 19.8rem;
+  width: 10.1rem;
+  height: 8.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-FNq .footer-iEm .auto-group-ypco-anm .vincrypt-all-rights-reserved-rth {
+  margin-left: 0.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  letter-spacing: 0.016rem;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .footer-iEm .quick-link-xgq {
+  margin: 0rem 13.6rem 14.8rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-FNq .footer-iEm .quick-link-xgq .quick-link-JVo {
+  margin-bottom: 2.4rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-FNq .footer-iEm .quick-link-xgq .home-products-about-features-contact-qkd {
+  max-width: 6.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.375;
+  color: #f2f2f2;
+  font-family: Rubik, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.design-FNq .footer-iEm .resources-mPP {
+  margin: 0rem 8.7rem 14.8rem 0rem;
+  width: 14.1rem;
+  height: 24.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.design-FNq .footer-iEm .resources-mPP .market-sentiment-b-c-d-e-HsX {
+  width: 14.1rem;
+  height: 19rem;
+  position: absolute;
+  left: 0;
+  top: 5.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.375;
+  color: #e0e0e0;
+  font-family: Rubik, 'Source Sans Pro';
+}
+.design-FNq .footer-iEm .resources-mPP .resources-npH {
+  width: 10.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.design-FNq .footer-iEm .resources-mPP .resources-7bf {
+  width: 14.1rem;
+  height: 24.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.design-FNq .footer-iEm .resources-mPP .resources-7bf .resources-4Wu {
+  margin-bottom: 2.4rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.design-FNq .footer-iEm .resources-mPP .resources-7bf .market-sentiment-b-c-d-e-Ct1 {
+  max-width: 14.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.375;
+  color: #e0e0e0;
+  font-family: Rubik, 'Source Sans Pro';
+}
+.design-FNq .footer-iEm .auto-group-wxsu-LUR {
+  margin-top: 5.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-FNq .footer-iEm .auto-group-wxsu-LUR .market-sentiment-b-c-d-e-goB {
+  margin-bottom: 12.2rem;
+  max-width: 19.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.375;
+  color: #e0e0e0;
+  font-family: Rubik, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.design-FNq .footer-iEm .auto-group-wxsu-LUR .socials-QjB {
+  margin-left: 18.3rem;
+  box-sizing: border-box;
+  padding: 0.2rem 0.206rem 0.2rem 0.661rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.design-FNq .footer-iEm .auto-group-wxsu-LUR .socials-QjB .facebook-f-1-vSd {
+  margin: 0rem 4.1rem 0rem 0rem;
+  width: 1.039rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-FNq .footer-iEm .auto-group-wxsu-LUR .socials-QjB .instagram-1-qZb {
+  margin: 0rem 3.499rem 0rem 0rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-FNq .footer-iEm .auto-group-wxsu-LUR .socials-QjB .youtube-1-mCM {
+  margin: 0rem 3.499rem 0.001rem 0rem;
+  width: 2.2014rem;
+  height: 1.5469rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-FNq .footer-iEm .auto-group-wxsu-LUR .socials-QjB .twitter-1-5yj {
+  margin: 0rem 3.606rem 0.002rem 0rem;
+  width: 2rem;
+  height: 1.6281rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-FNq .footer-iEm .auto-group-wxsu-LUR .socials-QjB .linkedin-1-1Mb {
+  width: 1.988rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

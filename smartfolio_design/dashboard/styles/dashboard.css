@@ -1,0 +1,795 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.dashboard-ivc {
+  width: 100%;
+  height: 108rem;
+  border-radius: 1rem;
+}
+.dashboard-ivc .crypto-dashboard-X7N {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(180deg, #313189 -0%, rgba(29, 29, 69, 0.0399999991) 100%);
+  border-radius: 1rem;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU {
+  box-sizing: border-box;
+  padding-left: 3.8rem;
+  width: 26.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG {
+  margin: 5.6rem 3.5rem 4.5rem 0rem;
+  width: 19.6rem;
+  height: calc(100% - 10.1rem);
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .auto-group-yvkg-ArU {
+  box-sizing: border-box;
+  padding-bottom: 9.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .auto-group-yvkg-ArU .auto-group-spsk-FN8 {
+  margin: 0rem 1.2rem 2.7rem 0rem;
+  width: calc(100% - 1.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .auto-group-yvkg-ArU .auto-group-spsk-FN8 .logo-design-white-1-xZN {
+  margin-right: 2.5rem;
+  width: 4.5rem;
+  height: 4.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .auto-group-yvkg-ArU .auto-group-spsk-FN8 .vincrypt-prU {
+  margin-top: 0.1rem;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.026rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .auto-group-yvkg-ArU .frame-8-cXS {
+  width: 19.5rem;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .auto-group-yvkg-ArU .frame-8-cXS .overview-j6G {
+  margin: 0rem 0rem 2.3rem 2.8rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #929292;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .auto-group-yvkg-ArU .frame-8-cXS .frame-7-o68 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .auto-group-yvkg-ArU .frame-8-cXS .frame-7-o68 .frame-1-X28 {
+  margin-bottom: 1.7rem;
+  box-sizing: border-box;
+  padding: 1.1rem 3.35rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #0096ff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .auto-group-yvkg-ArU .frame-8-cXS .frame-7-o68 .frame-1-X28 .vuesax-bold-category-okL {
+  margin-right: 1.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .auto-group-yvkg-ArU .frame-8-cXS .frame-7-o68 .frame-1-X28 .dashboard-hKv {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #dddddd;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .auto-group-yvkg-ArU .frame-8-cXS .frame-7-o68 .frame-2-9xc {
+  box-sizing: border-box;
+  padding: 1.1rem 3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .auto-group-yvkg-ArU .frame-8-cXS .frame-7-o68 .frame-2-9xc .vuesax-linear-document-text-GGY {
+  margin-right: 1.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .auto-group-yvkg-ArU .frame-8-cXS .frame-7-o68 .frame-2-9xc .whitepaper-xv4 {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #818181;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .auto-group-yvkg-ArU .frame-8-cXS .frame-7-o68 .auto-group-znnt-SqE {
+  box-sizing: border-box;
+  padding-top: 1.7rem;
+  width: 100%;
+  row-gap: 1.7rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .auto-group-yvkg-ArU .frame-8-cXS .frame-7-o68 .auto-group-znnt-SqE .frame-3-jpL {
+  margin-right: 1rem;
+  box-sizing: border-box;
+  padding: 1.1rem 3.05rem;
+  width: calc(100% - 1rem);
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .auto-group-yvkg-ArU .frame-8-cXS .frame-7-o68 .auto-group-znnt-SqE .frame-3-jpL .vuesax-linear-empty-wallet-xBJ {
+  margin-right: 1.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .auto-group-yvkg-ArU .frame-8-cXS .frame-7-o68 .auto-group-znnt-SqE .frame-3-jpL .dictionary-Ghn {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #818181;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .auto-group-yvkg-ArU .frame-8-cXS .frame-7-o68 .auto-group-znnt-SqE .frame-4-C5e {
+  margin-right: 1.9rem;
+  box-sizing: border-box;
+  padding: 1.1rem 5.25rem 1.1rem 2.85rem;
+  width: calc(100% - 1.9rem);
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .auto-group-yvkg-ArU .frame-8-cXS .frame-7-o68 .auto-group-znnt-SqE .frame-4-C5e .vuesax-linear-status-up-ZaQ {
+  margin-right: 1.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .auto-group-yvkg-ArU .frame-8-cXS .frame-7-o68 .auto-group-znnt-SqE .frame-4-C5e .article-tcg {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #818181;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .auto-group-yvkg-ArU .frame-8-cXS .frame-7-o68 .auto-group-znnt-SqE .frame-6-1hJ {
+  margin-right: 1.9rem;
+  box-sizing: border-box;
+  padding: 1.1rem 2.85rem;
+  width: calc(100% - 1.9rem);
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .auto-group-yvkg-ArU .frame-8-cXS .frame-7-o68 .auto-group-znnt-SqE .frame-6-1hJ .vuesax-linear-arrange-square-jtC {
+  margin-right: 1.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .auto-group-yvkg-ArU .frame-8-cXS .frame-7-o68 .auto-group-znnt-SqE .frame-6-1hJ .exchange-49n {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #818181;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .frame-7-NAU {
+  margin-bottom: 12.6rem;
+  width: 100%;
+  row-gap: 1.7rem;
+  display: flex;
+  flex-direction: column;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .frame-7-NAU .frame-2-hiY {
+  width: 100%;
+  height: 4.6rem;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .frame-7-NAU .frame-3-EyN {
+  box-sizing: border-box;
+  padding: 1.1rem 3.35rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .frame-7-NAU .frame-3-EyN .vuesax-linear-profile-2user-njz {
+  margin-right: 1.3rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .frame-7-NAU .frame-3-EyN .personalize-8J4 {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #818181;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .frame-7-NAU .frame-4-FNg {
+  margin-right: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.1rem 5.25rem 1.1rem 3.25rem;
+  width: calc(100% - 1.2rem);
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .frame-7-NAU .frame-4-FNg .vuesax-outline-setting-2-mrp {
+  margin-right: 1.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .frame-7-NAU .frame-4-FNg .setting-iGG {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #818181;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .frame-7-EkQ {
+  width: 17.6rem;
+  row-gap: 1.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .frame-7-EkQ .frame-2-zDn {
+  box-sizing: border-box;
+  padding: 1.1rem 4.7rem 1.1rem 2.9rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .frame-7-EkQ .frame-2-zDn .vuesax-outline-headphone-XzQ {
+  margin-right: 1.2rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .frame-7-EkQ .frame-2-zDn .support-g6c {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #818181;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .frame-7-EkQ .frame-3-bzG {
+  box-sizing: border-box;
+  padding: 1.1rem 2.9rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .frame-7-EkQ .frame-3-bzG .vuesax-outline-sms-edit-9Vz {
+  margin-right: 1.3rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .frame-7-EkQ .frame-3-bzG .messages-5uS {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #818181;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .frame-7-EkQ .frame-4-p6L {
+  box-sizing: border-box;
+  padding: 1.1rem 4.95rem 1.1rem 2.85rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(255, 0, 0, 0.0299999993);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .frame-7-EkQ .frame-4-p6L .vuesax-linear-logout-jUC {
+  margin-right: 1.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .auto-group-hhn8-jWG .frame-7-EkQ .frame-4-p6L .logout-URn {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #e45a5a;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .frame-87-rSU .line-8-nBa {
+  width: 0.1rem;
+  height: 108rem;
+  background-color: #e1e1e1;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A {
+  width: 117.9rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .frame-66-4et {
+  width: 105.9rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 4.7rem;
+  top: 4.6rem;
+  display: flex;
+  align-items: center;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .frame-66-4et .frame-13-NvU {
+  margin-right: 48.2rem;
+  height: 7.3rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .frame-66-4et .frame-13-NvU .dashboard-vBJ {
+  margin-bottom: 0.7rem;
+  font-size: 3.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.034rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .frame-66-4et .frame-13-NvU .welcome-back-user--SQY {
+  font-size: 1.9rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.019rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .frame-66-4et .frame-13-NvU .welcome-back-user--SQY .welcome-back-user--SQY-sub-0 {
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  letter-spacing: -0.019rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .frame-66-4et .frame-13-NvU .welcome-back-user--SQY .welcome-back-user--SQY-sub-1 {
+  font-size: 1.9rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.019rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .frame-66-4et .frame-13-NvU .welcome-back-user--SQY .welcome-back-user--SQY-sub-2 {
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .frame-66-4et .frame-13-NvU .welcome-back-user--SQY .welcome-back-user--SQY-sub-3 {
+  font-size: 1.9rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.019rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .frame-66-4et .frame-12-pC8 {
+  margin: 1.05rem 0;
+  box-sizing: border-box;
+  padding: 1.35rem 6rem;
+  height: calc(100% - 2.1rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #e3e3e3;
+  box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.0700000003);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .frame-66-4et .frame-12-pC8 .search-i2c {
+  margin: 0.1rem 19rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .frame-66-4et .frame-12-pC8 .vuesax-linear-search-normal-2JC {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .frame-60-JFi {
+  width: 30.8rem;
+  height: 24.6rem;
+  position: absolute;
+  left: 81.8rem;
+  top: 18.8rem;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .frame-61-dYt {
+  width: 30.7rem;
+  height: 24.8rem;
+  position: absolute;
+  left: 43.9rem;
+  top: 19.1rem;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .auto-group-uxg8-NFa {
+  box-sizing: border-box;
+  padding: 4.4rem 1.2rem 66.9rem 1.6rem;
+  width: 109.4rem;
+  height: 90.1rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 13.3rem;
+  box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.0700000003);
+  background-color: #4d4d86;
+  border-radius: 2rem;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .auto-group-uxg8-NFa .our-recommendations-U3i {
+  margin: 0rem 0rem 7.8rem 1.7rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.022rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .auto-group-uxg8-NFa .table-n4Q {
+  box-sizing: border-box;
+  padding-bottom: 1.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-bottom: solid 0.1rem #fbfbfb;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .auto-group-uxg8-NFa .table-n4Q .frame-9-uui {
+  margin: 0rem 0rem 1.5rem 1.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .auto-group-uxg8-NFa .table-n4Q .frame-9-uui .symbol-TAY {
+  margin-right: 15.5rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .auto-group-uxg8-NFa .table-n4Q .frame-9-uui .coin-name-mwv {
+  margin-right: 12.9rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .auto-group-uxg8-NFa .table-n4Q .frame-9-uui .block-time-7Vz {
+  margin-right: 12.8rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .auto-group-uxg8-NFa .table-n4Q .frame-9-uui .technical-rCg {
+  margin-right: 13.6rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .auto-group-uxg8-NFa .table-n4Q .frame-9-uui .project-a8g {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .auto-group-uxg8-NFa .table-n4Q .line-9-Wo2 {
+  margin-bottom: 1.3rem;
+  width: 100%;
+  height: 0.3rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .auto-group-uxg8-NFa .table-n4Q .frame-10-4Jk {
+  margin: 0rem 0rem 1.5rem 1.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .auto-group-uxg8-NFa .table-n4Q .frame-10-4Jk .coinsymbol-nkY {
+  margin-right: 11.8rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .auto-group-uxg8-NFa .table-n4Q .frame-10-4Jk .coinname-vrk {
+  margin-right: 12.9rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .auto-group-uxg8-NFa .table-n4Q .frame-10-4Jk .blocktime-gjS {
+  margin-right: 12.8rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .auto-group-uxg8-NFa .table-n4Q .frame-10-4Jk .technical-2HW {
+  margin-right: 13.6rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-gibs-X9A .auto-group-uxg8-NFa .table-n4Q .frame-10-4Jk .project-ZoE {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .line-1-EuN {
+  width: 0.1rem;
+  height: 108rem;
+  background-color: #e1e1e1;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-965w-BJp {
+  box-sizing: border-box;
+  padding: 5.3rem 4.2rem 63.4rem 2.5rem;
+  width: 47.1rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-965w-BJp .frame-69-VaQ {
+  margin: 0rem 0rem 3.3rem 17.3rem;
+  width: 18.5rem;
+  height: 6.6rem;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-965w-BJp .frame-69-VaQ .frame-68-pcg {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-965w-BJp .frame-69-VaQ .frame-68-pcg .username-Nu6 {
+  margin-right: 3rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.018rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-965w-BJp .frame-69-VaQ .frame-68-pcg .group-20-u8L {
+  width: 6.6rem;
+  height: 100%;
+  border-radius: 9.9rem;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-965w-BJp .frame-69-VaQ .frame-68-pcg .group-20-u8L .group-6-rJU {
+  width: 100%;
+  height: 100%;
+  border-radius: 9.9rem;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-965w-BJp .frame-69-VaQ .frame-68-pcg .group-20-u8L .group-6-rJU .rectangle-4-d4L {
+  width: 100%;
+  height: 6.6rem;
+  background-color: #d7d7d7;
+  border-radius: 9.9rem;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-965w-BJp .frame-37-8Fz {
+  box-sizing: border-box;
+  padding: 2.5rem 2.3rem 2.8rem 3.3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.0700000003);
+  background-color: #4d4d86;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-965w-BJp .frame-37-8Fz .wallet-id-dTe {
+  margin-bottom: 2.4rem;
+  font-size: 2.7rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.027rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-965w-BJp .frame-37-8Fz .frame-32-uvx {
+  margin-bottom: 3.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-965w-BJp .frame-37-8Fz .frame-32-uvx .insert-your-wallet-id-here-f9S {
+  margin-bottom: 1.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  letter-spacing: -0.014rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-965w-BJp .frame-37-8Fz .frame-32-uvx .frame-31-B7n {
+  width: 100%;
+  height: 6rem;
+  border: solid 0.1rem #ebebeb;
+  box-sizing: border-box;
+  box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.0900000036);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dashboard-ivc .crypto-dashboard-X7N .auto-group-965w-BJp .frame-37-8Fz .frame-31-V8U {
+  width: 100%;
+  height: 6rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.0700000003);
+  background-color: #0096ff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}

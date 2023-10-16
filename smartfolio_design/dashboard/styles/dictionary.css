@@ -1,0 +1,2401 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.dictionary-mHS {
+  width: 100%;
+  height: 108rem;
+}
+.dictionary-mHS .cryptodictionary-7MJ {
+  box-sizing: border-box;
+  padding: 0rem 4.2rem 0rem 3.8rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  background: linear-gradient(180deg, #47479e -0%, rgba(29, 29, 69, 0.0399999991) 100%);
+  border-radius: 1rem;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz {
+  box-sizing: border-box;
+  padding: 5.6rem 0rem 4.5rem 0rem;
+  width: 23.2rem;
+  height: 100%;
+  border-right: solid 0.1rem #e1e1e1;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA {
+  width: 19.6rem;
+  height: 100%;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .auto-group-prkj-uHA {
+  box-sizing: border-box;
+  padding-bottom: 9.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .auto-group-prkj-uHA .auto-group-d8u6-3uA {
+  margin: 0rem 1.2rem 2.7rem 0rem;
+  width: calc(100% - 1.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .auto-group-prkj-uHA .auto-group-d8u6-3uA .logo-design-white-1-yH2 {
+  margin-right: 2.5rem;
+  width: 4.5rem;
+  height: 4.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .auto-group-prkj-uHA .auto-group-d8u6-3uA .vincrypt-tun {
+  margin-top: 0.1rem;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.026rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .auto-group-prkj-uHA .frame-8-Btt {
+  width: 19.5rem;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .auto-group-prkj-uHA .frame-8-Btt .overview-YjS {
+  margin: 0rem 0rem 2.3rem 2.8rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #929292;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .auto-group-prkj-uHA .frame-8-Btt .frame-7-G9e {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .auto-group-prkj-uHA .frame-8-Btt .frame-7-G9e .frame-1-1sv {
+  margin-bottom: 1.7rem;
+  box-sizing: border-box;
+  padding: 1.1rem 3.35rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #3a3a7a;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .auto-group-prkj-uHA .frame-8-Btt .frame-7-G9e .frame-1-1sv .vuesax-bold-category-x2U {
+  margin-right: 1.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .auto-group-prkj-uHA .frame-8-Btt .frame-7-G9e .frame-1-1sv .dashboard-sv8 {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #7d7d81;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .auto-group-prkj-uHA .frame-8-Btt .frame-7-G9e .frame-2-BR2 {
+  box-sizing: border-box;
+  padding: 1.1rem 3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .auto-group-prkj-uHA .frame-8-Btt .frame-7-G9e .frame-2-BR2 .vuesax-linear-document-text-w9J {
+  margin-right: 1.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .auto-group-prkj-uHA .frame-8-Btt .frame-7-G9e .frame-2-BR2 .whitepaper-sHr {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #818181;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .auto-group-prkj-uHA .frame-8-Btt .frame-7-G9e .auto-group-rkct-nvc {
+  box-sizing: border-box;
+  padding-top: 1.7rem;
+  width: 100%;
+  row-gap: 1.7rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .auto-group-prkj-uHA .frame-8-Btt .frame-7-G9e .auto-group-rkct-nvc .frame-3-XtC {
+  margin-right: 1rem;
+  box-sizing: border-box;
+  padding: 1.1rem 3.05rem;
+  width: calc(100% - 1rem);
+  display: flex;
+  align-items: center;
+  background-color: #0096ff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .auto-group-prkj-uHA .frame-8-Btt .frame-7-G9e .auto-group-rkct-nvc .frame-3-XtC .vuesax-linear-empty-wallet-Gat {
+  margin-right: 1.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .auto-group-prkj-uHA .frame-8-Btt .frame-7-G9e .auto-group-rkct-nvc .frame-3-XtC .dictionary-1Ha {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .auto-group-prkj-uHA .frame-8-Btt .frame-7-G9e .auto-group-rkct-nvc .frame-4-vfS {
+  margin-right: 1.9rem;
+  box-sizing: border-box;
+  padding: 1.1rem 5.25rem 1.1rem 2.85rem;
+  width: calc(100% - 1.9rem);
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .auto-group-prkj-uHA .frame-8-Btt .frame-7-G9e .auto-group-rkct-nvc .frame-4-vfS .vuesax-linear-status-up-Fxc {
+  margin-right: 1.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .auto-group-prkj-uHA .frame-8-Btt .frame-7-G9e .auto-group-rkct-nvc .frame-4-vfS .article-QKi {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #818181;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .auto-group-prkj-uHA .frame-8-Btt .frame-7-G9e .auto-group-rkct-nvc .frame-6-w4k {
+  margin-right: 1.9rem;
+  box-sizing: border-box;
+  padding: 1.1rem 2.85rem;
+  width: calc(100% - 1.9rem);
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .auto-group-prkj-uHA .frame-8-Btt .frame-7-G9e .auto-group-rkct-nvc .frame-6-w4k .vuesax-linear-arrange-square-g2L {
+  margin-right: 1.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .auto-group-prkj-uHA .frame-8-Btt .frame-7-G9e .auto-group-rkct-nvc .frame-6-w4k .exchange-bf6 {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #818181;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .frame-7-KLC {
+  margin-bottom: 12.6rem;
+  width: 100%;
+  row-gap: 1.7rem;
+  display: flex;
+  flex-direction: column;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .frame-7-KLC .frame-2-s6p {
+  width: 100%;
+  height: 4.6rem;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .frame-7-KLC .frame-3-DRa {
+  box-sizing: border-box;
+  padding: 1.1rem 3.35rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .frame-7-KLC .frame-3-DRa .vuesax-linear-profile-2user-mT6 {
+  margin-right: 1.3rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .frame-7-KLC .frame-3-DRa .personalize-JT2 {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #818181;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .frame-7-KLC .frame-4-RnY {
+  margin-right: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.1rem 5.25rem 1.1rem 3.25rem;
+  width: calc(100% - 1.2rem);
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .frame-7-KLC .frame-4-RnY .vuesax-outline-setting-2-xXa {
+  margin-right: 1.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .frame-7-KLC .frame-4-RnY .setting-5s6 {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #818181;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .frame-7-cc8 {
+  width: 17.6rem;
+  row-gap: 1.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .frame-7-cc8 .frame-2-Ade {
+  box-sizing: border-box;
+  padding: 1.1rem 4.7rem 1.1rem 2.9rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .frame-7-cc8 .frame-2-Ade .vuesax-outline-headphone-Jjr {
+  margin-right: 1.2rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .frame-7-cc8 .frame-2-Ade .support-eHv {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #818181;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .frame-7-cc8 .frame-3-aSU {
+  box-sizing: border-box;
+  padding: 1.1rem 2.9rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .frame-7-cc8 .frame-3-aSU .vuesax-outline-sms-edit-jKN {
+  margin-right: 1.3rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .frame-7-cc8 .frame-3-aSU .messages-4Me {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #818181;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .frame-7-cc8 .frame-4-nYY {
+  box-sizing: border-box;
+  padding: 1.1rem 4.95rem 1.1rem 2.85rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(255, 0, 0, 0.0299999993);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .frame-7-cc8 .frame-4-nYY .vuesax-linear-logout-Xm2 {
+  margin-right: 1.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .frame-87-RMz .auto-group-9dn8-kfA .frame-7-cc8 .frame-4-nYY .logout-GyW {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #e45a5a;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG {
+  width: 117.8rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .auto-group-nqqg-XeY {
+  width: 107.9rem;
+  height: 39.3rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 4.6rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .auto-group-nqqg-XeY .frame-66-4Pa {
+  margin: 0rem 2rem 6.9rem 0rem;
+  width: calc(100% - 2rem);
+  height: 7.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .auto-group-nqqg-XeY .frame-66-4Pa .frame-13-b8c {
+  margin-right: 48.2rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .auto-group-nqqg-XeY .frame-66-4Pa .frame-13-b8c .dashboard-wTN {
+  margin-bottom: 0.7rem;
+  font-size: 3.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.034rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .auto-group-nqqg-XeY .frame-66-4Pa .frame-13-b8c .welcome-back-user--raL {
+  font-size: 1.9rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.019rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .auto-group-nqqg-XeY .frame-66-4Pa .frame-13-b8c .welcome-back-user--raL .welcome-back-user--raL-sub-0 {
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  letter-spacing: -0.019rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .auto-group-nqqg-XeY .frame-66-4Pa .frame-13-b8c .welcome-back-user--raL .welcome-back-user--raL-sub-1 {
+  font-size: 1.9rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.019rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .auto-group-nqqg-XeY .frame-66-4Pa .frame-13-b8c .welcome-back-user--raL .welcome-back-user--raL-sub-2 {
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .auto-group-nqqg-XeY .frame-66-4Pa .frame-13-b8c .welcome-back-user--raL .welcome-back-user--raL-sub-3 {
+  font-size: 1.9rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.019rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .auto-group-nqqg-XeY .frame-66-4Pa .frame-12-khe {
+  margin: 1.05rem 0rem 1.15rem 0rem;
+  box-sizing: border-box;
+  padding: 1.35rem 6rem;
+  height: calc(100% - 2.2rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #e3e3e3;
+  box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.0700000003);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .auto-group-nqqg-XeY .frame-66-4Pa .frame-12-khe .search-4TS {
+  margin: 0.1rem 19rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .auto-group-nqqg-XeY .frame-66-4Pa .frame-12-khe .vuesax-linear-search-normal-mck {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .auto-group-nqqg-XeY .auto-group-b85n-rPJ {
+  width: 68.7rem;
+  height: 25.1rem;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J {
+  box-sizing: border-box;
+  padding: 5rem 7.2rem 0rem 7.2rem;
+  width: 107.6rem;
+  height: 91.7rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 13.5rem;
+  overflow: hidden;
+  background-color: #4d4d86;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE {
+  width: 52.55rem;
+  height: 315.6rem;
+  position: relative;
+  overflow: hidden;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .smartfolio-crypto-dictionary-rGp {
+  width: 33.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .search-terms-surrounding-crypto-with-this-dictionary-feature-Zwv {
+  width: 28rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 5.75rem;
+  top: 4.5rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .divider-G5e {
+  width: 46.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 5.75rem;
+  top: 7.8rem;
+  background-color: #ffffff;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx {
+  width: 46.5rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 9.5rem;
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .a-tsi {
+  margin-right: 1.2rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .b-2DE {
+  margin-right: 1.2rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .c-YSU {
+  margin-right: 1.2rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .d-5BW {
+  margin-right: 1.3rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .e-D2p {
+  margin-right: 1.2rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .f-YKz {
+  margin-right: 1.3rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .g-5ap {
+  margin-right: 1.3rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .h-RPn {
+  margin-right: 1.2rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .i-NK2 {
+  margin-right: 1.2rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .j-uZr {
+  margin-right: 1.3rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .k-eXS {
+  margin-right: 1.2rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .l-nde {
+  margin-right: 1.3rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .m-inC {
+  margin-right: 1.3rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .n-fBe {
+  margin-right: 1.2rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .o-bqz {
+  margin-right: 1.2rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .p-vdN {
+  margin-right: 1.2rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .q-4Ug {
+  margin-right: 1.2rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .r-yrY {
+  margin-right: 1.2rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .s-X7N {
+  margin-right: 1.2rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .t-G4x {
+  margin-right: 1.2rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .u-oKn {
+  margin-right: 1.2rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .v-wB6 {
+  margin-right: 1.2rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .w-sqS {
+  margin-right: 1.2rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .x-QqN {
+  margin-right: 1.2rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .y-keL {
+  margin-right: 1.3rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .abc-Pvx .z-tkY {
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .labels-37e {
+  width: 17.3rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 0;
+  top: 12.1rem;
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .labels-37e .term-z2t {
+  margin-right: 9.9rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .labels-37e .definition-7NQ {
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU {
+  width: 46.8rem;
+  height: 300.9rem;
+  position: absolute;
+  left: 0;
+  top: 14.7rem;
+  overflow: hidden;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-ufow-KUU {
+  box-sizing: border-box;
+  padding-bottom: 8.3rem;
+  width: 46.8rem;
+  height: 12.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-ufow-KUU .a-eme {
+  margin-bottom: 1.5rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-ufow-KUU .accessibility-bB6 {
+  margin-right: 25rem;
+  width: calc(100% - 25rem);
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-ufow-KUU .accessibility-bB6 .a-input-9Cc {
+  margin-right: 8.6rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-ufow-KUU .accessibility-bB6 .input-definition-here-tR6 {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-rfbe-ppY {
+  width: 46.8rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 0;
+  top: 16rem;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .b-AtQ {
+  width: 0.6rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 0;
+  top: 34.7rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .c-tJc {
+  width: 0.6rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 0;
+  top: 47.3rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-vtjz-bD2 {
+  box-sizing: border-box;
+  padding: 6.6rem 0rem 3.3rem 0rem;
+  width: 46.8rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 0;
+  top: 66.1rem;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-vtjz-bD2 .contrast-iYY {
+  width: 16.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-vtjz-bD2 .contrast-iYY .contrast-UXi {
+  margin-right: 8.2rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-vtjz-bD2 .contrast-iYY .update-p5n {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .copy-9tk {
+  width: 71.3rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 77.7rem;
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .copy-9tk .copy-URE {
+  margin-right: 9.9rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .copy-9tk .interface-text-that-explains-what-features-do-directing-users-to-understand-what-actions-will-occur-as-a-result-of-their-interactions-oyJ {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .d-uFe {
+  width: 0.6rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 0;
+  top: 82.7rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .design-critique-design-review-RDz {
+  width: 55.8rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 85.3rem;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .design-critique-design-review-RDz .design-critique-design-review-M7e {
+  width: 14.9rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .design-critique-design-review-RDz .process-whereby-designers-gather-internal-feedback-on-screens-and-ideas-from-team-members-fe8 {
+  width: 43.5rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 12.3rem;
+  top: 0;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .design-system-kfa {
+  width: 65.2rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 90.3rem;
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .design-system-kfa .design-system-tFz {
+  margin-right: 5.4rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .design-system-kfa .the-source-of-truth-for-designers-and-front-end-developers-to-capture-ui-components-component-states-and-styles-dDa {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .e-7uS {
+  width: 0.6rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 0;
+  top: 95.3rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .f-32Q {
+  width: 0.5rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 0;
+  top: 97.9rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-jvrn-MYt {
+  box-sizing: border-box;
+  padding: 1.5rem 0;
+  width: 46.8rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 0;
+  top: 99rem;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-jvrn-MYt .file-formats-h6x {
+  margin: 0rem 16.9rem 3.3rem 0rem;
+  width: calc(100% - 16.9rem);
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-jvrn-MYt .file-formats-h6x .file-formats-1tL {
+  margin-right: 6.4rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-jvrn-MYt .file-formats-h6x .ai-eps-pdf-gif-jpeg-png-psd-tiff-x2t {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-jvrn-MYt .g-gja {
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .grid-system-34L {
+  width: 80.3rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 108.1rem;
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .grid-system-34L .grid-system-BRS {
+  margin-right: 6.6rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .grid-system-34L .sometimes-a-grid-system-is-set-for-designs-eg-4px-or-8px-all-components-and-padding-must-be-sized-in-a-manner-that-is-divisible-by-the-grid-system-7pt {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .h-19a {
+  width: 0.7rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 0;
+  top: 113.1rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .header-hierarch-vXS {
+  width: 16.1rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 115.7rem;
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .header-hierarch-vXS .header-hierarchy-sBn {
+  margin-right: 4rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .header-hierarch-vXS .update-or8 {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .high-fidelity-9uz {
+  width: 52.5rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 120.7rem;
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .high-fidelity-9uz .high-fidelity-JH6 {
+  margin-right: 6.3rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .high-fidelity-9uz .designs-that-have-been-well-refined-and-are-either-ready-for-development-or-very-close-Su6 {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .i-AaC {
+  width: 0.4rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 0;
+  top: 125.7rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .information-architecture-Uqn {
+  width: 64.3rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 128.3rem;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .information-architecture-Uqn .information-architecture-ia-QzL {
+  width: 13.6rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .information-architecture-Uqn .a-diagram-that-showcases-the-structure-and-entry-points-of-all-pages-in-your-product-a-digital-blueprint-if-you-will-Y4x {
+  width: 52rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 12.3rem;
+  top: 0;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .j-cac {
+  width: 0.5rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 0;
+  top: 133.3rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .k-wMz {
+  width: 0.6rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 0;
+  top: 135.9rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-2k9v-4hW {
+  box-sizing: border-box;
+  padding: 1.5rem 0rem 3.3rem 0rem;
+  width: 46.8rem;
+  height: 14.1rem;
+  position: absolute;
+  left: 0;
+  top: 137rem;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-2k9v-4hW .kpi-avk {
+  margin: 0rem 30.7rem 3.3rem 0rem;
+  width: calc(100% - 30.7rem);
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-2k9v-4hW .kpi-avk .kpi-jHr {
+  margin-right: 10.6rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-2k9v-4hW .kpi-avk .update-HKN {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-2k9v-4hW .l-2nk {
+  margin-bottom: 1.5rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-2k9v-4hW .logo-types-yhz {
+  margin-right: 14.5rem;
+  width: calc(100% - 14.5rem);
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-2k9v-4hW .logo-types-yhz .logo-types-XzQ {
+  margin-right: 7rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-2k9v-4hW .logo-types-yhz .abstract-mark-emblem-lettermark-mascot-5W8 {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .low-fidelity-wireframes-R4C {
+  width: 65.5rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 151.1rem;
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .low-fidelity-wireframes-R4C .low-fidelity-wireframes-kcG {
+  margin-right: 0.4rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .low-fidelity-wireframes-R4C .designs-that-are-in-an-exploration-phase-typically-used-by-designers-to-conceptualize-ideas-often-subject-to-change-6RE {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .m-Qgp {
+  width: 0.7rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 0;
+  top: 156.1rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .n-98c {
+  width: 0.7rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 0;
+  top: 158.7rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .o-sqJ {
+  width: 0.7rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 0;
+  top: 161.3rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-rlp2-Ccg {
+  box-sizing: border-box;
+  padding: 1.5rem 0;
+  width: 46.8rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 0;
+  top: 162.4rem;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-rlp2-Ccg .optimization-wKN {
+  margin: 0rem 30.7rem 3.3rem 0rem;
+  width: calc(100% - 30.7rem);
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-rlp2-Ccg .optimization-wKN .optimization-H8L {
+  margin-right: 6.1rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-rlp2-Ccg .optimization-wKN .update-dCC {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-rlp2-Ccg .p-ymr {
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .personas-vwz {
+  width: 61.9rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 171.5rem;
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .personas-vwz .personas-Gkx {
+  margin-right: 7.9rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .personas-vwz .characters-that-represent-key-user-groups-and-their-behaviours-needs-and-responses-to-different-situations-cZv {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .product-designer-8HN {
+  width: 76.1rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 176.5rem;
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .product-designer-8HN .product-designer-4wi {
+  margin-right: 4.1rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .product-designer-8HN .in-charge-of-designing-screens-and-features-for-developers-to-build-ensuring-that-user-needs-are-met-and-experiences-created-are-delightful-Co2 {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .product-manager-6dW {
+  width: 76.9rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 181.5rem;
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .product-manager-6dW .product-manager-pm-3Hr {
+  margin-right: 1.8rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .product-manager-6dW .intermediary-between-a-projects-developers-designers-and-users-in-charge-of-scoping-product-needs-and-managing-project-responsibilities-B9A {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .prototype-TcU {
+  width: 80.1rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 186.5rem;
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .prototype-TcU .prototype-QXi {
+  margin-right: 7.6rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .prototype-TcU .interactive-designs-built-to-simulate-product-experiences-for-stakeholders-typically-used-to-gather-feedback-on-interactions-and-showcase-features-9kC {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-masr-SUQ {
+  box-sizing: border-box;
+  padding: 3.3rem 0rem 1.5rem 0rem;
+  width: 46.8rem;
+  height: 13.5rem;
+  position: absolute;
+  left: 0;
+  top: 188.2rem;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-masr-SUQ .proximity-YnL {
+  margin: 0rem 11.4rem 3.3rem 0rem;
+  width: calc(100% - 11.4rem);
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-masr-SUQ .proximity-YnL .proximity-Ufz {
+  margin-right: 7.7rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-masr-SUQ .proximity-YnL .the-way-elements-are-grouped-on-a-page-together-pUx {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-masr-SUQ .q-kdW {
+  margin-bottom: 1.5rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-masr-SUQ .r-tzc {
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .radially-3cc {
+  width: 56.3rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 201.7rem;
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .radially-3cc .radially-b8L {
+  margin-right: 8.4rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .radially-3cc .radial-design-is-a-method-to-achieve-balance-by-sorting-elements-to-radiate-from-a-central-point-wT6 {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-pnel-4Gp {
+  box-sizing: border-box;
+  padding: 3.3rem 0;
+  width: 46.8rem;
+  height: 13.3rem;
+  position: absolute;
+  left: 0;
+  top: 203.4rem;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-pnel-4Gp .repetition-zgG {
+  margin: 0rem 30.7rem 3.3rem 0rem;
+  width: calc(100% - 30.7rem);
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-pnel-4Gp .repetition-zgG .repetition-KyS {
+  margin-right: 7.3rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-pnel-4Gp .repetition-zgG .update-U5e {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-pnel-4Gp .resolution-1bN {
+  margin-right: 30.7rem;
+  width: calc(100% - 30.7rem);
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-pnel-4Gp .resolution-1bN .resolution-mKe {
+  margin-right: 7.2rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-pnel-4Gp .resolution-1bN .update-iEt {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .responsiveness-G1W {
+  width: 58.1rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 216.7rem;
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .responsiveness-G1W .responsiveness-oGL {
+  margin-right: 4.8rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .responsiveness-G1W .the-adapability-of-your-product-on-different-canvases-and-devices-from-desktop-mobile-to-beyond-9LC {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .s-3wN {
+  width: 0.6rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 0;
+  top: 221.7rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-rrsq-yKE {
+  box-sizing: border-box;
+  padding: 1.5rem 0rem 3.3rem 0rem;
+  width: 46.8rem;
+  height: 16.5rem;
+  position: absolute;
+  left: 0;
+  top: 222.8rem;
+  row-gap: 3.3rem;
+  display: flex;
+  flex-direction: column;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-rrsq-yKE .saturation-GJL {
+  margin-right: 30.7rem;
+  width: calc(100% - 30.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-rrsq-yKE .saturation-GJL .saturation-QQY {
+  margin-right: 7.3rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-rrsq-yKE .saturation-GJL .update-Yme {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-rrsq-yKE .seo-h8k {
+  width: 16.1rem;
+  height: 1.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-rrsq-yKE .seo-h8k .search-engine-optimization-seo-3yJ {
+  width: 16rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-rrsq-yKE .seo-h8k .update-m8c {
+  width: 3.8rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 12.3rem;
+  top: 0;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-rrsq-yKE .scale-tU8 {
+  margin-right: 30.7rem;
+  width: calc(100% - 30.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-rrsq-yKE .scale-tU8 .scale-F3n {
+  margin-right: 9.7rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-rrsq-yKE .scale-tU8 .update-By2 {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .screens-mockups-Xmz {
+  width: 51.5rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 239.3rem;
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .screens-mockups-Xmz .screens-mockups-5Hi {
+  margin-right: 3.5rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .screens-mockups-Xmz .designs-for-specific-pages-within-a-product-screens-can-have-varying-levels-of-fidelity-Dui {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .symmetrically-LUY {
+  width: 56.6rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 244.3rem;
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .symmetrically-LUY .symmetrically-Tp4 {
+  margin-right: 5.4rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .symmetrically-LUY .a-method-to-achieve-balance-symmetry-aligns-elements-equally-on-both-sides-of-the-central-line-BEG {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .t-fQL {
+  width: 0.6rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 0;
+  top: 249.3rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .u-w6x {
+  width: 0.7rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 0;
+  top: 251.9rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .usability-testing-R28 {
+  width: 73.1rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 254.5rem;
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .usability-testing-R28 .usability-testing-jHi {
+  margin-right: 4.4rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .usability-testing-R28 .the-process-of-testing-stakeholders-with-prototypes-to-gather-feedback-on-interactions-ensuring-features-are-usable-and-make-sense-GHe {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .user-flows-WSt {
+  width: 63.4rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 259.5rem;
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .user-flows-WSt .user-flows-qzx {
+  margin-right: 7.1rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .user-flows-WSt .a-diagram-that-showcases-the-paths-and-interactions-that-a-user-can-progress-through-to-accomplish-their-goals-z7A {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .user-interviews-Vpc {
+  width: 60.3rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 264.5rem;
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .user-interviews-Vpc .user-interviews-3LL {
+  margin-right: 4.9rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .user-interviews-Vpc .gathering-context-from-users-surrounding-needs-wants-and-challenges-used-as-a-tool-to-build-empathy-yzg {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .ux-Nmv {
+  width: 55.2rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 269.5rem;
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .ux-Nmv .ux-iKz {
+  margin-right: 10.9rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .ux-Nmv .stands-for-user-experience-refers-to-the-usability-of-products-in-providing-value-to-end-users-ejS {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .ux-Nmv .stands-for-user-experience-refers-to-the-usability-of-products-in-providing-value-to-end-users-ejS .stands-for-user-experience-refers-to-the-usability-of-products-in-providing-value-to-end-users-ejS-sub-0 {
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .ux-Nmv .stands-for-user-experience-refers-to-the-usability-of-products-in-providing-value-to-end-users-ejS .stands-for-user-experience-refers-to-the-usability-of-products-in-providing-value-to-end-users-ejS-sub-1 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .ux-Nmv .stands-for-user-experience-refers-to-the-usability-of-products-in-providing-value-to-end-users-ejS .stands-for-user-experience-refers-to-the-usability-of-products-in-providing-value-to-end-users-ejS-sub-2 {
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .v-vqN {
+  width: 0.6rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 0;
+  top: 274.5rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .w-FMr {
+  width: 0.8rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 0;
+  top: 277.1rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-t1vq-mLC {
+  box-sizing: border-box;
+  padding-top: 1.5rem;
+  width: 46.8rem;
+  height: 22.7rem;
+  position: absolute;
+  left: 0;
+  top: 278.2rem;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-t1vq-mLC .website-elements-fwN {
+  margin: 0rem 6rem 3.3rem 0rem;
+  width: calc(100% - 6rem);
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-t1vq-mLC .website-elements-fwN .website-elements-ba8 {
+  margin-right: 3.9rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-t1vq-mLC .website-elements-fwN .header-navigation-breadcrumb-landing-page-user-interface-w8C {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-t1vq-mLC .white-space-T6Y {
+  margin: 0rem 30.7rem 3.3rem 0rem;
+  width: calc(100% - 30.7rem);
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-t1vq-mLC .white-space-T6Y .white-space-z6U {
+  margin-right: 6.5rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-t1vq-mLC .white-space-T6Y .update-w1i {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-t1vq-mLC .whimsical-miro-gEC {
+  margin: 0rem 13.3rem 3.3rem 0rem;
+  width: calc(100% - 13.3rem);
+  display: flex;
+  align-items: center;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-t1vq-mLC .whimsical-miro-gEC .whimsical-miro-oZi {
+  margin-right: 4.5rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-t1vq-mLC .whimsical-miro-gEC .web-based-tools-used-for-creating-flow-charts-jiG {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-t1vq-mLC .x-51S {
+  margin-bottom: 1.5rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-t1vq-mLC .y-1fn {
+  margin-bottom: 1.5rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-kzk6-mvG .design-dictionary-11J .content-7KE .terms-SvU .auto-group-t1vq-mLC .z-xL8 {
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Source Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dictionary-mHS .cryptodictionary-7MJ .line-1-fVS {
+  margin-right: 2.5rem;
+  width: 0.1rem;
+  height: 108rem;
+  background-color: #e1e1e1;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-7p1j-bdz {
+  margin-top: 5.3rem;
+  width: 40.4rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-7p1j-bdz .frame-68-vwA {
+  margin: 0rem 2.3rem 3.3rem 19.6rem;
+  width: calc(100% - 21.9rem);
+  height: 6.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-7p1j-bdz .frame-68-vwA .username-rK2 {
+  margin-right: 3rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.018rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-7p1j-bdz .frame-68-vwA .group-20-B6Q {
+  width: 6.6rem;
+  height: 100%;
+  border-radius: 9.9rem;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-7p1j-bdz .frame-68-vwA .group-20-B6Q .group-6-jNp {
+  width: 100%;
+  height: 100%;
+  border-radius: 9.9rem;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-7p1j-bdz .frame-68-vwA .group-20-B6Q .group-6-jNp .rectangle-4-JRv {
+  width: 100%;
+  height: 6.6rem;
+  background-color: #d7d7d7;
+  border-radius: 9.9rem;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-7p1j-bdz .frame-37-chW {
+  box-sizing: border-box;
+  padding: 2.5rem 2.3rem 2.8rem 3.3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.0700000003);
+  background-color: #4d4d86;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-7p1j-bdz .frame-37-chW .wallet-id-M9J {
+  margin-bottom: 2.4rem;
+  font-size: 2.7rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.027rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-7p1j-bdz .frame-37-chW .frame-32-55J {
+  margin-bottom: 3.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-7p1j-bdz .frame-37-chW .frame-32-55J .insert-your-wallet-id-here-Rex {
+  margin-bottom: 1.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  letter-spacing: -0.014rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-7p1j-bdz .frame-37-chW .frame-32-55J .frame-31-LX2 {
+  width: 100%;
+  height: 6rem;
+  border: solid 0.1rem #ebebeb;
+  box-sizing: border-box;
+  box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.0900000036);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.dictionary-mHS .cryptodictionary-7MJ .auto-group-7p1j-bdz .frame-37-chW .frame-31-FP6 {
+  width: 100%;
+  height: 6rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.0700000003);
+  background-color: #0096ff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}

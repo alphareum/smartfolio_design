@@ -1,0 +1,613 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.whitepaper-cHW {
+  width: 100%;
+  height: 108rem;
+  border-radius: 1rem;
+}
+.whitepaper-cHW .crypto-whitepaper-kec {
+  box-sizing: border-box;
+  padding: 0rem 6.5rem 0rem 3.8rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(180deg, #47479e -0%, #1d1d45 100%);
+  border-radius: 1rem;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 {
+  margin: 0rem 1.1rem 4.5rem 0rem;
+  box-sizing: border-box;
+  padding-top: 5.6rem;
+  width: 23.1rem;
+  border-right: solid 0.1rem #e1e1e1;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .auto-group-2wxa-Z6G {
+  margin: 0rem 4.7rem 2.7rem 0rem;
+  width: calc(100% - 4.7rem);
+  display: flex;
+  align-items: center;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .auto-group-2wxa-Z6G .logo-design-white-1-54c {
+  margin-right: 2.5rem;
+  width: 4.5rem;
+  height: 4.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .auto-group-2wxa-Z6G .vincrypt-Pb6 {
+  margin-top: 0.1rem;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.026rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-8-HRa {
+  margin-bottom: 9.5rem;
+  width: 19.5rem;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-8-HRa .overview-dVS {
+  margin: 0rem 0rem 2.3rem 2.8rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #929292;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-8-HRa .frame-7-vUY {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-8-HRa .frame-7-vUY .frame-1-GYQ {
+  margin-bottom: 1.7rem;
+  box-sizing: border-box;
+  padding: 1.1rem 3.35rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #3b3b7d;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-8-HRa .frame-7-vUY .frame-1-GYQ .vuesax-bold-category-Cwr {
+  margin-right: 1.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-8-HRa .frame-7-vUY .frame-1-GYQ .dashboard-Xz8 {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #818181;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-8-HRa .frame-7-vUY .frame-2-SrC {
+  box-sizing: border-box;
+  padding: 1.1rem 3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #373771;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-8-HRa .frame-7-vUY .frame-2-SrC .vuesax-linear-document-text-NUx {
+  margin-right: 1.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-8-HRa .frame-7-vUY .frame-2-SrC .whitepaper-GqE {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #818181;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-8-HRa .frame-7-vUY .auto-group-pwmz-zFS {
+  box-sizing: border-box;
+  padding-top: 1.7rem;
+  width: 100%;
+  row-gap: 1.7rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-8-HRa .frame-7-vUY .auto-group-pwmz-zFS .frame-3-86k {
+  margin-right: 1rem;
+  box-sizing: border-box;
+  padding: 1.1rem 3.05rem;
+  width: calc(100% - 1rem);
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-8-HRa .frame-7-vUY .auto-group-pwmz-zFS .frame-3-86k .vuesax-linear-empty-wallet-T92 {
+  margin-right: 1.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-8-HRa .frame-7-vUY .auto-group-pwmz-zFS .frame-3-86k .dictionary-mvQ {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #818181;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-8-HRa .frame-7-vUY .auto-group-pwmz-zFS .frame-4-tVE {
+  margin-right: 1.9rem;
+  box-sizing: border-box;
+  padding: 1.1rem 5.25rem 1.1rem 2.85rem;
+  width: calc(100% - 1.9rem);
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-8-HRa .frame-7-vUY .auto-group-pwmz-zFS .frame-4-tVE .vuesax-linear-status-up-oMJ {
+  margin-right: 1.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-8-HRa .frame-7-vUY .auto-group-pwmz-zFS .frame-4-tVE .article-vRv {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #818181;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-8-HRa .frame-7-vUY .auto-group-pwmz-zFS .frame-6-r4g {
+  margin-right: 1.9rem;
+  box-sizing: border-box;
+  padding: 1.1rem 2.85rem;
+  width: calc(100% - 1.9rem);
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-8-HRa .frame-7-vUY .auto-group-pwmz-zFS .frame-6-r4g .vuesax-linear-arrange-square-ALG {
+  margin-right: 1.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-8-HRa .frame-7-vUY .auto-group-pwmz-zFS .frame-6-r4g .exchange-HQt {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #818181;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-7-z4Q {
+  margin-bottom: 12.6rem;
+  width: 19.6rem;
+  row-gap: 1.7rem;
+  display: flex;
+  flex-direction: column;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-7-z4Q .frame-2-WYY {
+  width: 100%;
+  height: 4.6rem;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-7-z4Q .frame-3-eue {
+  box-sizing: border-box;
+  padding: 1.1rem 3.35rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-7-z4Q .frame-3-eue .vuesax-linear-profile-2user-PsE {
+  margin-right: 1.3rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-7-z4Q .frame-3-eue .personalize-vMN {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #818181;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-7-z4Q .frame-4-Rov {
+  margin-right: 1.2rem;
+  box-sizing: border-box;
+  padding: 1.1rem 5.25rem 1.1rem 3.25rem;
+  width: calc(100% - 1.2rem);
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-7-z4Q .frame-4-Rov .vuesax-outline-setting-2-wnG {
+  margin-right: 1.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-7-z4Q .frame-4-Rov .setting-UXJ {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #818181;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-7-zEk {
+  width: 17.6rem;
+  row-gap: 1.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-7-zEk .frame-2-iwS {
+  box-sizing: border-box;
+  padding: 1.1rem 4.7rem 1.1rem 2.9rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-7-zEk .frame-2-iwS .vuesax-outline-headphone-T8L {
+  margin-right: 1.2rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-7-zEk .frame-2-iwS .support-NWC {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #818181;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-7-zEk .frame-3-6BJ {
+  box-sizing: border-box;
+  padding: 1.1rem 2.9rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-7-zEk .frame-3-6BJ .vuesax-outline-sms-edit-3MS {
+  margin-right: 1.3rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-7-zEk .frame-3-6BJ .messages-moE {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #818181;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-7-zEk .frame-4-VUL {
+  box-sizing: border-box;
+  padding: 1.1rem 4.95rem 1.1rem 2.85rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(255, 0, 0, 0.0299999993);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-7-zEk .frame-4-VUL .vuesax-linear-logout-daY {
+  margin-right: 1.8rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .frame-87-TZ2 .frame-7-zEk .frame-4-VUL .logout-YxQ {
+  margin-top: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #e45a5a;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp {
+  margin: 4.6rem 0rem 5.6rem 0rem;
+  width: 157.5rem;
+  height: calc(100% - 10.2rem);
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp .auto-group-y1zp-M9A {
+  margin-bottom: 0.4rem;
+  box-sizing: border-box;
+  padding: 0.7rem 0rem 0rem 135.4rem;
+  width: 153.9rem;
+  height: 7.3rem;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp .auto-group-y1zp-M9A .frame-68-ee4 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp .auto-group-y1zp-M9A .frame-68-ee4 .username-bZJ {
+  margin-right: 3rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.018rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp .auto-group-y1zp-M9A .frame-68-ee4 .group-20-Vua {
+  width: 6.6rem;
+  height: 100%;
+  border-radius: 9.9rem;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp .auto-group-y1zp-M9A .frame-68-ee4 .group-20-Vua .group-6-3w6 {
+  width: 100%;
+  height: 100%;
+  border-radius: 9.9rem;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp .auto-group-y1zp-M9A .frame-68-ee4 .group-20-Vua .group-6-3w6 .rectangle-4-1sv {
+  width: 100%;
+  height: 6.6rem;
+  background-color: #d7d7d7;
+  border-radius: 9.9rem;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp .auto-group-fesa-XbN {
+  width: 100%;
+  height: 90.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp .auto-group-fesa-XbN .rectangle-165-sfE {
+  width: 147rem;
+  height: 90.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.0700000003);
+  background-color: #4d4d86;
+  border-radius: 2rem;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp .auto-group-fesa-XbN .products-emoji-list-xgg {
+  width: 47.2rem;
+  height: 84.4rem;
+  position: absolute;
+  left: 49.9rem;
+  top: 2.9rem;
+  overflow: hidden;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #4d4d86;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp .auto-group-fesa-XbN .products-emoji-list-xgg .auto-group-jj6k-4Up {
+  box-sizing: border-box;
+  padding: 19.65rem 0rem 4.6rem 0.9rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp .auto-group-fesa-XbN .products-emoji-list-xgg .auto-group-jj6k-4Up .title-copy-bDr {
+  margin: 0rem 1.3rem 13.35rem 0rem;
+  display: flex;
+  font-size: 4.4rem;
+  font-weight: 700;
+  line-height: 0.5;
+  letter-spacing: -0.088rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp .auto-group-fesa-XbN .products-emoji-list-xgg .auto-group-jj6k-4Up .body-copy-tCx {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.048rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp .auto-group-fesa-XbN .products-emoji-list-xgg .products-CzL {
+  width: 47.8rem;
+  height: 8.1rem;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp .auto-group-fesa-XbN .products-emoji-list-xgg .products-CzL .group-1-Z4C {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp .auto-group-fesa-XbN .products-emoji-list-xgg .products-CzL .group-1-Z4C .rectangle-10-ixg {
+  width: 100%;
+  height: 8.1rem;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp .auto-group-fesa-XbN .products-emoji-list-xgg .auto-group-m3q2-r3J {
+  box-sizing: border-box;
+  padding: 4.1rem 5.3rem 9.4rem 6.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp .auto-group-fesa-XbN .products-emoji-list-xgg .auto-group-m3q2-r3J .controls-group-BbN {
+  margin: 0rem 10.75rem 12.7rem 9.65rem;
+  width: calc(100% - 20.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp .auto-group-fesa-XbN .products-emoji-list-xgg .auto-group-m3q2-r3J .controls-group-BbN .submit-hZi {
+  margin-bottom: 1.5rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2222222222;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp .auto-group-fesa-XbN .products-emoji-list-xgg .auto-group-m3q2-r3J .controls-group-BbN .restore-purchase-DY4 {
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2222222222;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp .auto-group-fesa-XbN .products-emoji-list-xgg .auto-group-m3q2-r3J .legal-text-vxG {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  letter-spacing: -0.024rem;
+  color: #f5f8fa;
+  font-family: Gilroy, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp .auto-group-fesa-XbN .products-emoji-list-xgg .auto-group-m3q2-r3J .legal-text-vxG .legal-text-vxG-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  letter-spacing: -0.024rem;
+  color: #f5f8fa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp .auto-group-fesa-XbN .products-emoji-list-xgg .auto-group-m3q2-r3J .legal-text-vxG .legal-text-vxG-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  letter-spacing: -0.024rem;
+  text-decoration-line: underline;
+  color: #f5f8fa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp .auto-group-fesa-XbN .products-emoji-list-xgg .auto-group-m3q2-r3J .legal-text-vxG .legal-text-vxG-sub-2 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  letter-spacing: -0.024rem;
+  color: #f5f8fa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp .auto-group-fesa-XbN .products-emoji-list-xgg .auto-group-m3q2-r3J .legal-text-vxG .legal-text-vxG-sub-3 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  letter-spacing: -0.024rem;
+  text-decoration-line: underline;
+  color: #f5f8fa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.whitepaper-cHW .crypto-whitepaper-kec .auto-group-swyg-qAp .auto-group-fesa-XbN .products-emoji-list-xgg .auto-group-m3q2-r3J .legal-text-vxG .legal-text-vxG-sub-4 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  letter-spacing: -0.024rem;
+  color: #f5f8fa;
+  font-family: Inter, 'Source Sans Pro';
+}
